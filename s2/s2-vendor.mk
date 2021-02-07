@@ -796,18 +796,3 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     vendor.display.color@1.0 \
-    QtiTelephonyService \
-    UEIQuicksetSDKLeTV \
-    uceShimService \
-    CNEService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    PowerOffAlarm \
-    TimeService \
-    imssettings \
-    QPerformance \
-    QtiTelephonyServicelibrary \
-    UxPerformance \
-    qcrilhook \
-    qti-telephony-common
